@@ -2,7 +2,7 @@
 
 ## About Me
 
-A recent PhD graduate from Chennai Mathematical Institute, Chennai, India. My research interests broadly lie in commutative algebra and its intersections with algebraic geometry and combinatorics. My PhD advisor is Professor Manoj Kummini.
+Welcome to my personal page! I am Nirmal Kotal, a mathematician with a Ph.D. from Chennai Mathematical Institute, specializing in commutative algebra and its intersections with algebraic geometry and combinatorics. My research has been guided by Professor Manoj Kummini, and I am passionate about contributing to the mathematical community through my work. My dissertation focused on exploring the positive characteristic singularities of commutative rings and their applications. Prior to my doctoral studies, I earned my Master’s degree in Mathematics from IIT Kharagpur, where I built a strong foundation in advanced mathematical concepts.
 
 ## Contact Information
 
