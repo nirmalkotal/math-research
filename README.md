@@ -2,22 +2,17 @@
 
 ## About Me
 
-Welcome to my personal page! I am Nirmal Kotal, a mathematician with a Ph.D. from Chennai Mathematical Institute, specializing in commutative algebra and its intersections with algebraic geometry and combinatorics. My research has been guided by Professor Manoj Kummini, and I am passionate about contributing to the mathematical community through my work. My dissertation focused on exploring the positive characteristic singularities of commutative rings and their applications. Prior to my doctoral studies, I earned my Master’s degree in Mathematics from IIT Kharagpur, where I built a strong foundation in advanced mathematical concepts.
+I’m Nirmal Kotal, a mathematician with a Ph.D. from Chennai Mathematical Institute. Currently, I am a Postdoctoral Research Fellow at the Institute of Mathematical Sciences. My research, under the guidance of Professor Manoj Kummini, explores positive characteristic singularities in commutative rings. I hold a Master’s degree in Mathematics from IIT Kharagpur. I am passionate about expanding my mathematical knowledge and look forward to sharing my work and discoveries with you.
 
 ## Contact Information
 
 - **Email**: [nirmalkotal@gmail.com](mailto:nirmalkotal@gmail.com)
-- **Work Address**: 
-  Chennai Mathematical Institute,  
-  SIPCOT IT Park, Siruseri,  
-  Tamil Nadu, India, 603103
 
 ## Research Interests
 
 My research is centered around:
 - Commutative Algebra
-- Algebraic Geometry
-- Combinatorics
+
 
 ## Publications
 
@@ -37,10 +32,12 @@ My research is centered around:
   Preprint: [ArXiv:2401.00783](https://arxiv.org/abs/2401.00783)
 
   - **On the v-number Gorenstein ideals and Frobenius powers**
+    To appear in the Bulletin of the Malaysian Mathematical Sciences Society
   With K. Saha.
   Preprint: [ArXiv:2311.04136](https://arxiv.org/abs/2311.04136)
 
-  - **Cohen-Macaulay permutation graphs** 
+  - **Cohen-Macaulay permutation graphs**
+    To appear in the Mathematica Scandinavica.
   With P. V. Cheri, D. Dey, Akhil K, and D. Veer.
   Preprint: [ArXiv:2310.17343](https://arxiv.org/abs/2310.17343)
 
