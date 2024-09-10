@@ -32,7 +32,7 @@ My research is centered around:
   Preprint: [ArXiv:2401.00783](https://arxiv.org/abs/2401.00783)
 
   - **On the v-number Gorenstein ideals and Frobenius powers**
-    To appear in the Bulletin of the Malaysian Mathematical Sciences Society
+    Bulletin of the Malaysian Mathematical Sciences Society, Vol.:47, No.:167, 2024.
   With K. Saha.
   Preprint: [ArXiv:2311.04136](https://arxiv.org/abs/2311.04136)
 
