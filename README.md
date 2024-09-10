@@ -19,30 +19,30 @@ My research is centered around:
 **My up-to-date papers are available on ArXiv**: [ArXiv Profile](https://arxiv.org/a/kotal_n_1.html)
 
   - **Blow-up rings and F-rationality** 
-  To appear in the Journal of Commutative Algebra.
-  With M. Kummini.
-  Preprint: [ArXiv:2305.12383](https://arxiv.org/abs/2305.12383)
+  <br>To appear in the Journal of Commutative Algebra.
+  <br>With M. Kummini.
+  <br>Preprint: [ArXiv:2305.12383](https://arxiv.org/abs/2305.12383)
 
   - **The non-F-rational locus of the Rees algebras** 
-  To appear in the Illinois Journal of Mathematics.
-  With M. Kummini.
-  Preprint: [ArXiv:2311.07074](https://arxiv.org/abs/2311.07074)
+  <br>To appear in the Illinois Journal of Mathematics.
+  <br>With M. Kummini.
+  <br>Preprint: [ArXiv:2311.07074](https://arxiv.org/abs/2311.07074)
 
   - **On Frobenius Betti numbers of graded rings of finite Cohen-Macaulay type**  
-  Preprint: [ArXiv:2401.00783](https://arxiv.org/abs/2401.00783)
+  <br>Preprint: [ArXiv:2401.00783](https://arxiv.org/abs/2401.00783)
 
   - **On the v-number Gorenstein ideals and Frobenius powers**
-    Bulletin of the Malaysian Mathematical Sciences Society, Vol.:47, No.:167, 2024.
-  With K. Saha.
-  Preprint: [ArXiv:2311.04136](https://arxiv.org/abs/2311.04136)
+    <br>Bulletin of the Malaysian Mathematical Sciences Society, Vol.:47, No.:167, 2024.
+    <br>With K. Saha.
+  <br>Preprint: [ArXiv:2311.04136](https://arxiv.org/abs/2311.04136)
 
   - **Cohen-Macaulay permutation graphs**
-    To appear in the Mathematica Scandinavica.
-  With P. V. Cheri, D. Dey, Akhil K, and D. Veer.
-  Preprint: [ArXiv:2310.17343](https://arxiv.org/abs/2310.17343)
+    <br>To appear in the Mathematica Scandinavica.
+  <br>With P. V. Cheri, D. Dey, Akhil K, and D. Veer.
+  <br>Preprint: [ArXiv:2310.17343](https://arxiv.org/abs/2310.17343)
 
 - **Mean value theorems for holomorphic functions of a generalized complex variable**  
-  The Mathematics Student, Vol.:92, No.:3-4, pp:45-78, 2023
+  <br>The Mathematics Student, Vol.:92, No.:3-4, pp:45-78, 2023
 
 ## Links
 
