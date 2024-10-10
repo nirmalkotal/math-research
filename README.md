@@ -47,6 +47,6 @@ My research is centered around:
 ## Links
 
 - [ORCID Profile](https://orcid.org/0000-0002-2261-9803)
-- [Google Scholar Profile](https://scholar.google.com/citations?user=your_google_scholar_id)
+- [Google Scholar Profile](https://scholar.google.com/citations?user=OGYtgIQAAAAJ&hl=en&oi=ao)
 
 Feel free to explore my GitHub repository for more details about my work and contributions.
