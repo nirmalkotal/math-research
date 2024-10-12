@@ -4,6 +4,10 @@
 
 I’m Nirmal Kotal, a mathematician with a Ph.D. from Chennai Mathematical Institute. Currently, I am a Postdoctoral Research Fellow at the Institute of Mathematical Sciences. My research, under the guidance of Professor Manoj Kummini, explores positive characteristic singularities in commutative rings. I hold a Master’s degree in Mathematics from IIT Kharagpur. I am passionate about expanding my mathematical knowledge and look forward to sharing my work and discoveries with you.
 
+## My Resume
+
+
+
 ## Contact Information
 
 - **Email**: [nirmalkotal@gmail.com](mailto:nirmalkotal@gmail.com)
