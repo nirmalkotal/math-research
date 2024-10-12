@@ -28,8 +28,8 @@ My research is centered around:
   <br>With M. Kummini.
   <br>Preprint: [ArXiv:2311.07074](https://arxiv.org/abs/2311.07074)
 
-  - **On Frobenius Betti numbers of graded rings of finite Cohen-Macaulay type**  
-  <br>Preprint: [ArXiv:2401.00783](https://arxiv.org/abs/2401.00783)
+  - **On Frobenius Betti numbers of graded rings of finite Cohen-Macaulay type**
+    <br>Preprint: [ArXiv:2401.00783](https://arxiv.org/abs/2401.00783)
 
   - **On the v-number Gorenstein ideals and Frobenius powers**
     <br>Bulletin of the Malaysian Mathematical Sciences Society, Vol.:47, No.:167, 2024.
@@ -41,7 +41,7 @@ My research is centered around:
   <br>With P. V. Cheri, D. Dey, Akhil K, and D. Veer.
   <br>Preprint: [ArXiv:2310.17343](https://arxiv.org/abs/2310.17343)
 
-- **Mean value theorems for holomorphic functions of a generalized complex variable**  
+- **Mean value theorems for holomorphic functions of a generalized complex variable**
   <br>The Mathematics Student, Vol.:92, No.:3-4, pp:45-78, 2023
 
 ## Links
