@@ -38,12 +38,12 @@ My research is centered around:
   - **On the v-number Gorenstein ideals and Frobenius powers**
     <br>Bulletin of the Malaysian Mathematical Sciences Society, Vol.:47, No.:167, 2024.
     <br>With K. Saha.
-  <br>Preprint: [ArXiv:2311.04136](https://arxiv.org/abs/2311.04136)
+  <br>[https://doi.org/10.1007/s40840-024-01763-8](https://doi.org/10.1007/s40840-024-01763-8).
 
   - **Cohen-Macaulay permutation graphs**
-    <br>To appear in the Mathematica Scandinavica.
+    <br>Mathematica Scandinavica, Vol: 130, No.: 3, 2024.
   <br>With P. V. Cheri, D. Dey, Akhil K, and D. Veer.
-  <br>Preprint: [ArXiv:2310.17343](https://arxiv.org/abs/2310.17343)
+  <br>[https://doi.org/10.7146/math.scand.a-149033](https://doi.org/10.7146/math.scand.a-149033).
 
 - **Mean value theorems for holomorphic functions of a generalized complex variable**
   <br>The Mathematics Student, Vol.:92, No.:3-4, pp:45-78, 2023
