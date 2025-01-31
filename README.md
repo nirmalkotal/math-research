@@ -28,9 +28,9 @@ My research is centered around:
   <be>[https://doi.org/10.1216/jca.2024.16.439](https://doi.org/10.1216/jca.2024.16.439)
 
   - **The non-F-rational locus of the Rees algebras** 
-  <br>To appear in the Illinois Journal of Mathematics.
+  <br>Illinois Journal of Mathematics, Vol.: 68, No.: 4, pp: 731-739, 2024.
   <br>With M. Kummini.
-  <br>Preprint: [ArXiv:2311.07074](https://arxiv.org/abs/2311.07074)
+  <br>[https://doi.org/10.1215/00192082-11417197](https://doi.org/10.1215/00192082-11417197)
 
   - **On Frobenius Betti numbers of graded rings of finite Cohen-Macaulay type**
     <br> To appear in Communications in Algebra.
@@ -49,9 +49,14 @@ My research is centered around:
 - **Mean value theorems for holomorphic functions of a generalized complex variable**
   <br>The Mathematics Student, Vol.:92, No.:3-4, pp:45-78, 2023
 
+- **Polyominoes and Knutson ideals**
+    <br> With M. Koley and D. Veer
+    <br> Preprint: [https://arxiv.org/abs/2411.16364](https://arxiv.org/abs/2411.16364)
+
 ## Links
 
 - [ORCID Profile](https://orcid.org/0000-0002-2261-9803)
 - [Google Scholar Profile](https://scholar.google.com/citations?user=OGYtgIQAAAAJ&hl=en&oi=ao)
+- [ArXiv Profile](https://arxiv.org/a/kotal_n_1.html)
 
 Feel free to explore my GitHub repository for more details about my work and contributions.
