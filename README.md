@@ -34,7 +34,7 @@ My research is centered around:
 
   - **On Frobenius Betti numbers of graded rings of finite Cohen-Macaulay type**
     <br> Communications in Algebra, Vol.: 53, No.: 7, pp: 2823–2833.
-    <br>Preprint: [https://doi.org/10.1080/00927872.2025.2451084](https://doi.org/10.1080/00927872.2025.2451084)
+    <br> [https://doi.org/10.1080/00927872.2025.2451084](https://doi.org/10.1080/00927872.2025.2451084)
 
   - **On the v-number Gorenstein ideals and Frobenius powers**
     <br>Bulletin of the Malaysian Mathematical Sciences Society, Vol.:47, No.:167, 2024.
